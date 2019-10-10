@@ -1,6 +1,9 @@
 # ANS.analogy
 using AI to answer the Analogy question
 ----
+## Description
+This repository contains files related to my project on Image Caption Generation.
+
 ## Dataset
 * Glove6B dataset [Link](https://drive.google.com/open?id=1GI5sWeCxgJEgToeVmakL69oDlXowXGU4)
 ----
